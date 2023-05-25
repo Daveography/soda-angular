@@ -1,0 +1,16 @@
+{
+  "name": "ngx-soda",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^15.1.0",
+    "@angular/core": "^15.1.0",
+    "soda-node": "^0.4.2"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  },
+  "devDependencies": {
+    "@types/geojson": "^7946.0.10"
+  },
+  "sideEffects": false
+}
